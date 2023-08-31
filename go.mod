@@ -1,4 +1,4 @@
-module crd-controller-webhook
+module admission-webhook-example
 
 go 1.21.0
 
